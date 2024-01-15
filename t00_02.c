@@ -4,7 +4,7 @@
 
 int main(int _argv, char **_argc)
 {
-    printf("ALOHA!");
+    printf("Aloha!");
 
     return 0;
 } 
