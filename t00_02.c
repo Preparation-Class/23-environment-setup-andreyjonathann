@@ -1,7 +1,10 @@
 // NIM - NAMA
 
- main(char **_argc, int _argv)
+ #include <stdio.h>
+
+int main(int _argv, char **_argc)
 {
-    
+    printf("ALOHA!");
+
     return 0;
-}
+} 
